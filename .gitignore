@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+/cppSimulator/Debug
+/cppSimulator/Release
+/cppSimulator/x64/Release
+/cppSimulator/x64/Debug
+/*.opensdf
+/*.sdf
